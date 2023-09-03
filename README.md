@@ -29,5 +29,4 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-<video src="https://github.com/Huseyinyetisir/book-store/blob/main/React%20Todo-App.mp4" controls="controls" style="max-width: 730px;">
-</video>
+https://github.com/Huseyinyetisir/book-store/assets/66623387/a50d935b-2bdb-4f69-aa50-2a65cb70c0ea
